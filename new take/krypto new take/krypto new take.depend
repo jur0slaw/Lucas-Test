@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484263268 source:c:\users\administrator\documents\programy\krypto 5\new take\krypto new take\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+
